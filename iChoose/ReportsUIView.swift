@@ -43,7 +43,7 @@ struct ReportsUIView: View {
             }
         }.padding(.top, 93.0)
     }
-}}
+}
 
 struct ReportsUIView_Previews: PreviewProvider {
     static var previews: some View {
