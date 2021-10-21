@@ -19,6 +19,7 @@
 		FB3BD0372721D18400247239 /* HomeNotUserUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0362721D18300247239 /* HomeNotUserUIView.swift */; };
 		FB3BD0392721D28900247239 /* RegistrationUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0382721D28900247239 /* RegistrationUIView.swift */; };
 		FB3BD03B2721D30E00247239 /* LoginUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD03A2721D30E00247239 /* LoginUIView.swift */; };
+		FB3BD03D2721D38500247239 /* HomeUserUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD03C2721D38400247239 /* HomeUserUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		FB3BD0362721D18300247239 /* HomeNotUserUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeNotUserUIView.swift; sourceTree = "<group>"; };
 		FB3BD0382721D28900247239 /* RegistrationUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationUIView.swift; sourceTree = "<group>"; };
 		FB3BD03A2721D30E00247239 /* LoginUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginUIView.swift; sourceTree = "<group>"; };
+		FB3BD03C2721D38400247239 /* HomeUserUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeUserUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				FB3BD0362721D18300247239 /* HomeNotUserUIView.swift */,
 				FB3BD0382721D28900247239 /* RegistrationUIView.swift */,
 				FB3BD03A2721D30E00247239 /* LoginUIView.swift */,
+				FB3BD03C2721D38400247239 /* HomeUserUIView.swift */,
 				FB3BD0202721CD0600247239 /* ContentView.swift */,
 				FB3BD0222721CD0800247239 /* Assets.xcassets */,
 				FB3BD0242721CD0800247239 /* Preview Content */,
@@ -169,6 +172,7 @@
 				FB3BD02F2721CE5900247239 /* ReadNewsUIView.swift in Sources */,
 				FB3BD0372721D18400247239 /* HomeNotUserUIView.swift in Sources */,
 				FB3BD0212721CD0600247239 /* ContentView.swift in Sources */,
+				FB3BD03D2721D38500247239 /* HomeUserUIView.swift in Sources */,
 				FB3BD01F2721CD0600247239 /* iChooseApp.swift in Sources */,
 				FB3BD0332721CF3100247239 /* VotingUIView.swift in Sources */,
 			);
