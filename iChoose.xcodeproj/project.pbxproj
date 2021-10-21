@@ -34,6 +34,7 @@
 		FB3BD0572721D7A700247239 /* CardViewNews.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0562721D7A700247239 /* CardViewNews.swift */; };
 		FB3BD0592721D81000247239 /* PollMemory.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0582721D81000247239 /* PollMemory.swift */; };
 		FB3BD05B2721D83F00247239 /* NewsMemory.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD05A2721D83F00247239 /* NewsMemory.swift */; };
+		FB3BD05D2721D86A00247239 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD05C2721D86A00247239 /* Settings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,6 +66,7 @@
 		FB3BD0562721D7A700247239 /* CardViewNews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewNews.swift; sourceTree = "<group>"; };
 		FB3BD0582721D81000247239 /* PollMemory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PollMemory.swift; sourceTree = "<group>"; };
 		FB3BD05A2721D83F00247239 /* NewsMemory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsMemory.swift; sourceTree = "<group>"; };
+		FB3BD05C2721D86A00247239 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				FB3BD0562721D7A700247239 /* CardViewNews.swift */,
 				FB3BD0582721D81000247239 /* PollMemory.swift */,
 				FB3BD05A2721D83F00247239 /* NewsMemory.swift */,
+				FB3BD05C2721D86A00247239 /* Settings.swift */,
 				FB3BD0202721CD0600247239 /* ContentView.swift */,
 				FB3BD0222721CD0800247239 /* Assets.xcassets */,
 				FB3BD0242721CD0800247239 /* Preview Content */,
@@ -208,6 +211,7 @@
 			files = (
 				FB3BD04D2721D61000247239 /* VotedDetailUIView.swift in Sources */,
 				FB3BD03B2721D30E00247239 /* LoginUIView.swift in Sources */,
+				FB3BD05D2721D86A00247239 /* Settings.swift in Sources */,
 				FB3BD04B2721D5DE00247239 /* ExpiredDetailUIView.swift in Sources */,
 				FB3BD0352721D0FD00247239 /* BenvenutoUIView.swift in Sources */,
 				FB3BD0572721D7A700247239 /* CardViewNews.swift in Sources */,
