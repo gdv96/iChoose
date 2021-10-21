@@ -31,6 +31,7 @@
 		FB3BD0512721D6D300247239 /* OngoingDetailUserUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0502721D6D300247239 /* OngoingDetailUserUIView.swift */; };
 		FB3BD0532721D74100247239 /* NewsUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0522721D74100247239 /* NewsUIView.swift */; };
 		FB3BD0552721D76C00247239 /* DetailNewsUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0542721D76C00247239 /* DetailNewsUIView.swift */; };
+		FB3BD0572721D7A700247239 /* CardViewNews.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0562721D7A700247239 /* CardViewNews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		FB3BD0502721D6D300247239 /* OngoingDetailUserUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OngoingDetailUserUIView.swift; sourceTree = "<group>"; };
 		FB3BD0522721D74100247239 /* NewsUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsUIView.swift; sourceTree = "<group>"; };
 		FB3BD0542721D76C00247239 /* DetailNewsUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailNewsUIView.swift; sourceTree = "<group>"; };
+		FB3BD0562721D7A700247239 /* CardViewNews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewNews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				FB3BD0502721D6D300247239 /* OngoingDetailUserUIView.swift */,
 				FB3BD0522721D74100247239 /* NewsUIView.swift */,
 				FB3BD0542721D76C00247239 /* DetailNewsUIView.swift */,
+				FB3BD0562721D7A700247239 /* CardViewNews.swift */,
 				FB3BD0202721CD0600247239 /* ContentView.swift */,
 				FB3BD0222721CD0800247239 /* Assets.xcassets */,
 				FB3BD0242721CD0800247239 /* Preview Content */,
@@ -201,6 +204,7 @@
 				FB3BD03B2721D30E00247239 /* LoginUIView.swift in Sources */,
 				FB3BD04B2721D5DE00247239 /* ExpiredDetailUIView.swift in Sources */,
 				FB3BD0352721D0FD00247239 /* BenvenutoUIView.swift in Sources */,
+				FB3BD0572721D7A700247239 /* CardViewNews.swift in Sources */,
 				FB3BD0412721D48600247239 /* PollsUIView.swift in Sources */,
 				FB3BD03F2721D41E00247239 /* TabUIView.swift in Sources */,
 				FB3BD0552721D76C00247239 /* DetailNewsUIView.swift in Sources */,
