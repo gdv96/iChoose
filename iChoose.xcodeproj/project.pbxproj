@@ -22,6 +22,8 @@
 		FB3BD03D2721D38500247239 /* HomeUserUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD03C2721D38400247239 /* HomeUserUIView.swift */; };
 		FB3BD03F2721D41E00247239 /* TabUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD03E2721D41E00247239 /* TabUIView.swift */; };
 		FB3BD0412721D48600247239 /* PollsUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0402721D48600247239 /* PollsUIView.swift */; };
+		FB3BD0432721D4D300247239 /* CardViewVotedUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0422721D4D300247239 /* CardViewVotedUIView.swift */; };
+		FB3BD0452721D51500247239 /* CardViewExpiredUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0442721D51500247239 /* CardViewExpiredUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +43,8 @@
 		FB3BD03C2721D38400247239 /* HomeUserUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeUserUIView.swift; sourceTree = "<group>"; };
 		FB3BD03E2721D41E00247239 /* TabUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabUIView.swift; sourceTree = "<group>"; };
 		FB3BD0402721D48600247239 /* PollsUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PollsUIView.swift; sourceTree = "<group>"; };
+		FB3BD0422721D4D300247239 /* CardViewVotedUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewVotedUIView.swift; sourceTree = "<group>"; };
+		FB3BD0442721D51500247239 /* CardViewExpiredUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewExpiredUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +89,8 @@
 				FB3BD03C2721D38400247239 /* HomeUserUIView.swift */,
 				FB3BD03E2721D41E00247239 /* TabUIView.swift */,
 				FB3BD0402721D48600247239 /* PollsUIView.swift */,
+				FB3BD0422721D4D300247239 /* CardViewVotedUIView.swift */,
+				FB3BD0442721D51500247239 /* CardViewExpiredUIView.swift */,
 				FB3BD0202721CD0600247239 /* ContentView.swift */,
 				FB3BD0222721CD0800247239 /* Assets.xcassets */,
 				FB3BD0242721CD0800247239 /* Preview Content */,
@@ -180,8 +186,10 @@
 				FB3BD02F2721CE5900247239 /* ReadNewsUIView.swift in Sources */,
 				FB3BD0372721D18400247239 /* HomeNotUserUIView.swift in Sources */,
 				FB3BD0212721CD0600247239 /* ContentView.swift in Sources */,
+				FB3BD0432721D4D300247239 /* CardViewVotedUIView.swift in Sources */,
 				FB3BD03D2721D38500247239 /* HomeUserUIView.swift in Sources */,
 				FB3BD01F2721CD0600247239 /* iChooseApp.swift in Sources */,
+				FB3BD0452721D51500247239 /* CardViewExpiredUIView.swift in Sources */,
 				FB3BD0332721CF3100247239 /* VotingUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
