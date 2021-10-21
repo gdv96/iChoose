@@ -66,6 +66,6 @@ struct CardViewOngoingUIView: View {
 
 struct CardViewOngoingUIView_Previews: PreviewProvider {
     static var previews: some View {
-        CardViewOngoingUIView()
+        CardViewOngoingUIView(pollsOngoing: Poll(titlePoll: "prova", imageNamePoll: "mensa", textPoll: "", remainingTime: "23h 59", progressBar: 100, numberVotes: 10000, typePoll: 1))
     }
 }
