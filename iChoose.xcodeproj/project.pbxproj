@@ -14,6 +14,7 @@
 		FB3BD02D2721CDC900247239 /* WelcomeUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD02C2721CDC900247239 /* WelcomeUIView.swift */; };
 		FB3BD02F2721CE5900247239 /* ReadNewsUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD02E2721CE5900247239 /* ReadNewsUIView.swift */; };
 		FB3BD0312721CE9D00247239 /* ReportsUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0302721CE9D00247239 /* ReportsUIView.swift */; };
+		FB3BD0332721CF3100247239 /* VotingUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0322721CF3100247239 /* VotingUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		FB3BD02C2721CDC900247239 /* WelcomeUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeUIView.swift; sourceTree = "<group>"; };
 		FB3BD02E2721CE5900247239 /* ReadNewsUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadNewsUIView.swift; sourceTree = "<group>"; };
 		FB3BD0302721CE9D00247239 /* ReportsUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportsUIView.swift; sourceTree = "<group>"; };
+		FB3BD0322721CF3100247239 /* VotingUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VotingUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				FB3BD02C2721CDC900247239 /* WelcomeUIView.swift */,
 				FB3BD02E2721CE5900247239 /* ReadNewsUIView.swift */,
 				FB3BD0302721CE9D00247239 /* ReportsUIView.swift */,
+				FB3BD0322721CF3100247239 /* VotingUIView.swift */,
 				FB3BD0202721CD0600247239 /* ContentView.swift */,
 				FB3BD0222721CD0800247239 /* Assets.xcassets */,
 				FB3BD0242721CD0800247239 /* Preview Content */,
@@ -151,6 +154,7 @@
 				FB3BD02F2721CE5900247239 /* ReadNewsUIView.swift in Sources */,
 				FB3BD0212721CD0600247239 /* ContentView.swift in Sources */,
 				FB3BD01F2721CD0600247239 /* iChooseApp.swift in Sources */,
+				FB3BD0332721CF3100247239 /* VotingUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
