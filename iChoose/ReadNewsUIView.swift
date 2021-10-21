@@ -40,7 +40,7 @@ struct ReadNewsUIView: View {
         }.padding(.top, 93.0)
     }
 }
-}
+
 
 struct ReadNewsUIView_Previews: PreviewProvider {
     static var previews: some View {
