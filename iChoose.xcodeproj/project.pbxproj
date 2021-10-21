@@ -29,6 +29,7 @@
 		FB3BD04D2721D61000247239 /* VotedDetailUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD04C2721D61000247239 /* VotedDetailUIView.swift */; };
 		FB3BD04F2721D64B00247239 /* OngoingDetailNotUserUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD04E2721D64B00247239 /* OngoingDetailNotUserUIView.swift */; };
 		FB3BD0512721D6D300247239 /* OngoingDetailUserUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0502721D6D300247239 /* OngoingDetailUserUIView.swift */; };
+		FB3BD0532721D74100247239 /* NewsUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0522721D74100247239 /* NewsUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,7 @@
 		FB3BD04C2721D61000247239 /* VotedDetailUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VotedDetailUIView.swift; sourceTree = "<group>"; };
 		FB3BD04E2721D64B00247239 /* OngoingDetailNotUserUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OngoingDetailNotUserUIView.swift; sourceTree = "<group>"; };
 		FB3BD0502721D6D300247239 /* OngoingDetailUserUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OngoingDetailUserUIView.swift; sourceTree = "<group>"; };
+		FB3BD0522721D74100247239 /* NewsUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				FB3BD04C2721D61000247239 /* VotedDetailUIView.swift */,
 				FB3BD04E2721D64B00247239 /* OngoingDetailNotUserUIView.swift */,
 				FB3BD0502721D6D300247239 /* OngoingDetailUserUIView.swift */,
+				FB3BD0522721D74100247239 /* NewsUIView.swift */,
 				FB3BD0202721CD0600247239 /* ContentView.swift */,
 				FB3BD0222721CD0800247239 /* Assets.xcassets */,
 				FB3BD0242721CD0800247239 /* Preview Content */,
@@ -205,6 +208,7 @@
 				FB3BD0392721D28900247239 /* RegistrationUIView.swift in Sources */,
 				FB3BD02F2721CE5900247239 /* ReadNewsUIView.swift in Sources */,
 				FB3BD0372721D18400247239 /* HomeNotUserUIView.swift in Sources */,
+				FB3BD0532721D74100247239 /* NewsUIView.swift in Sources */,
 				FB3BD0212721CD0600247239 /* ContentView.swift in Sources */,
 				FB3BD0432721D4D300247239 /* CardViewVotedUIView.swift in Sources */,
 				FB3BD03D2721D38500247239 /* HomeUserUIView.swift in Sources */,
