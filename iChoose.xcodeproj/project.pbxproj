@@ -32,6 +32,7 @@
 		FB3BD0532721D74100247239 /* NewsUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0522721D74100247239 /* NewsUIView.swift */; };
 		FB3BD0552721D76C00247239 /* DetailNewsUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0542721D76C00247239 /* DetailNewsUIView.swift */; };
 		FB3BD0572721D7A700247239 /* CardViewNews.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0562721D7A700247239 /* CardViewNews.swift */; };
+		FB3BD0592721D81000247239 /* PollMemory.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0582721D81000247239 /* PollMemory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		FB3BD0522721D74100247239 /* NewsUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsUIView.swift; sourceTree = "<group>"; };
 		FB3BD0542721D76C00247239 /* DetailNewsUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailNewsUIView.swift; sourceTree = "<group>"; };
 		FB3BD0562721D7A700247239 /* CardViewNews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewNews.swift; sourceTree = "<group>"; };
+		FB3BD0582721D81000247239 /* PollMemory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PollMemory.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				FB3BD0522721D74100247239 /* NewsUIView.swift */,
 				FB3BD0542721D76C00247239 /* DetailNewsUIView.swift */,
 				FB3BD0562721D7A700247239 /* CardViewNews.swift */,
+				FB3BD0582721D81000247239 /* PollMemory.swift */,
 				FB3BD0202721CD0600247239 /* ContentView.swift */,
 				FB3BD0222721CD0800247239 /* Assets.xcassets */,
 				FB3BD0242721CD0800247239 /* Preview Content */,
@@ -219,6 +222,7 @@
 				FB3BD0532721D74100247239 /* NewsUIView.swift in Sources */,
 				FB3BD0212721CD0600247239 /* ContentView.swift in Sources */,
 				FB3BD0432721D4D300247239 /* CardViewVotedUIView.swift in Sources */,
+				FB3BD0592721D81000247239 /* PollMemory.swift in Sources */,
 				FB3BD03D2721D38500247239 /* HomeUserUIView.swift in Sources */,
 				FB3BD01F2721CD0600247239 /* iChooseApp.swift in Sources */,
 				FB3BD0452721D51500247239 /* CardViewExpiredUIView.swift in Sources */,
