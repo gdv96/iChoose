@@ -100,7 +100,7 @@ struct BenvenutoUIView: View {
                         .font(.title2)
                         .foregroundColor(.white)
                         .frame(width: 200, height: 50.0)
-                        .background(.blue)
+                        .background(Color.blue)
                         .cornerRadius(10)
                         .padding()
                     

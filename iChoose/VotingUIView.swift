@@ -62,8 +62,8 @@ struct VotingUIView: View {
     }
 }
 
-struct VotingUIView_Previews: PreviewProvider {
+/*struct VotingUIView_Previews: PreviewProvider {
     static var previews: some View {
-        VotingUIView(isFirst: Binding false)
+        VotingUIView()
     }
-}
+}*/
