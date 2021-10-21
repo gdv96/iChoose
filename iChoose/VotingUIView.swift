@@ -64,6 +64,6 @@ struct VotingUIView: View {
 
 struct VotingUIView_Previews: PreviewProvider {
     static var previews: some View {
-        VotingUIView()
+        VotingUIView(isFirst: Binding false)
     }
 }
