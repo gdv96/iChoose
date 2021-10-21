@@ -13,9 +13,9 @@ struct ContentView: View {
     var body: some View {
         if (firstPage){
                 TabView {
-                    welcomeUIView()
+                    WelcomeUIView()
                     //page 1
-                    readNewsUIView()
+                    ReadNewsUIView()
                     //page 2
                     ReportsUIView()
                     //page 3
@@ -33,6 +33,7 @@ struct ContentView: View {
                 
         }
     }
+}
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
