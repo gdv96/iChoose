@@ -11,6 +11,7 @@
 		FB3BD0212721CD0600247239 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0202721CD0600247239 /* ContentView.swift */; };
 		FB3BD0232721CD0800247239 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB3BD0222721CD0800247239 /* Assets.xcassets */; };
 		FB3BD0262721CD0800247239 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB3BD0252721CD0800247239 /* Preview Assets.xcassets */; };
+		FB3BD02D2721CDC900247239 /* WelcomeUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD02C2721CDC900247239 /* WelcomeUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		FB3BD0202721CD0600247239 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FB3BD0222721CD0800247239 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB3BD0252721CD0800247239 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FB3BD02C2721CDC900247239 /* WelcomeUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				FB3BD01E2721CD0600247239 /* iChooseApp.swift */,
+				FB3BD02C2721CDC900247239 /* WelcomeUIView.swift */,
 				FB3BD0202721CD0600247239 /* ContentView.swift */,
 				FB3BD0222721CD0800247239 /* Assets.xcassets */,
 				FB3BD0242721CD0800247239 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB3BD02D2721CDC900247239 /* WelcomeUIView.swift in Sources */,
 				FB3BD0212721CD0600247239 /* ContentView.swift in Sources */,
 				FB3BD01F2721CD0600247239 /* iChooseApp.swift in Sources */,
 			);
