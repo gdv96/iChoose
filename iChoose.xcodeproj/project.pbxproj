@@ -25,6 +25,7 @@
 		FB3BD0432721D4D300247239 /* CardViewVotedUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0422721D4D300247239 /* CardViewVotedUIView.swift */; };
 		FB3BD0452721D51500247239 /* CardViewExpiredUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0442721D51500247239 /* CardViewExpiredUIView.swift */; };
 		FB3BD0492721D55700247239 /* CardViewOngoingUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0482721D55700247239 /* CardViewOngoingUIView.swift */; };
+		FB3BD04B2721D5DE00247239 /* ExpiredDetailUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD04A2721D5DE00247239 /* ExpiredDetailUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		FB3BD0422721D4D300247239 /* CardViewVotedUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewVotedUIView.swift; sourceTree = "<group>"; };
 		FB3BD0442721D51500247239 /* CardViewExpiredUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewExpiredUIView.swift; sourceTree = "<group>"; };
 		FB3BD0482721D55700247239 /* CardViewOngoingUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewOngoingUIView.swift; sourceTree = "<group>"; };
+		FB3BD04A2721D5DE00247239 /* ExpiredDetailUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpiredDetailUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				FB3BD0422721D4D300247239 /* CardViewVotedUIView.swift */,
 				FB3BD0442721D51500247239 /* CardViewExpiredUIView.swift */,
 				FB3BD0482721D55700247239 /* CardViewOngoingUIView.swift */,
+				FB3BD04A2721D5DE00247239 /* ExpiredDetailUIView.swift */,
 				FB3BD0202721CD0600247239 /* ContentView.swift */,
 				FB3BD0222721CD0800247239 /* Assets.xcassets */,
 				FB3BD0242721CD0800247239 /* Preview Content */,
@@ -180,6 +183,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FB3BD03B2721D30E00247239 /* LoginUIView.swift in Sources */,
+				FB3BD04B2721D5DE00247239 /* ExpiredDetailUIView.swift in Sources */,
 				FB3BD0352721D0FD00247239 /* BenvenutoUIView.swift in Sources */,
 				FB3BD0412721D48600247239 /* PollsUIView.swift in Sources */,
 				FB3BD03F2721D41E00247239 /* TabUIView.swift in Sources */,
