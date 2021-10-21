@@ -33,6 +33,7 @@
 		FB3BD0552721D76C00247239 /* DetailNewsUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0542721D76C00247239 /* DetailNewsUIView.swift */; };
 		FB3BD0572721D7A700247239 /* CardViewNews.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0562721D7A700247239 /* CardViewNews.swift */; };
 		FB3BD0592721D81000247239 /* PollMemory.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0582721D81000247239 /* PollMemory.swift */; };
+		FB3BD05B2721D83F00247239 /* NewsMemory.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD05A2721D83F00247239 /* NewsMemory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 		FB3BD0542721D76C00247239 /* DetailNewsUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailNewsUIView.swift; sourceTree = "<group>"; };
 		FB3BD0562721D7A700247239 /* CardViewNews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewNews.swift; sourceTree = "<group>"; };
 		FB3BD0582721D81000247239 /* PollMemory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PollMemory.swift; sourceTree = "<group>"; };
+		FB3BD05A2721D83F00247239 /* NewsMemory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsMemory.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				FB3BD0542721D76C00247239 /* DetailNewsUIView.swift */,
 				FB3BD0562721D7A700247239 /* CardViewNews.swift */,
 				FB3BD0582721D81000247239 /* PollMemory.swift */,
+				FB3BD05A2721D83F00247239 /* NewsMemory.swift */,
 				FB3BD0202721CD0600247239 /* ContentView.swift */,
 				FB3BD0222721CD0800247239 /* Assets.xcassets */,
 				FB3BD0242721CD0800247239 /* Preview Content */,
@@ -210,6 +213,7 @@
 				FB3BD0572721D7A700247239 /* CardViewNews.swift in Sources */,
 				FB3BD0412721D48600247239 /* PollsUIView.swift in Sources */,
 				FB3BD03F2721D41E00247239 /* TabUIView.swift in Sources */,
+				FB3BD05B2721D83F00247239 /* NewsMemory.swift in Sources */,
 				FB3BD0552721D76C00247239 /* DetailNewsUIView.swift in Sources */,
 				FB3BD04F2721D64B00247239 /* OngoingDetailNotUserUIView.swift in Sources */,
 				FB3BD0312721CE9D00247239 /* ReportsUIView.swift in Sources */,
