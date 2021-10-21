@@ -148,4 +148,3 @@ NavigationLink(destination: LoginUIView()) {
     }
 }
 
-
