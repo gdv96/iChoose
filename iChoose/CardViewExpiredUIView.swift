@@ -64,8 +64,8 @@ struct CardViewExpiredUIView: View {
 }
 
 
-struct CardViewExpiredUIView_Previews: PreviewProvider {
+/*struct CardViewExpiredUIView_Previews: PreviewProvider {
     static var previews: some View {
         CardViewExpiredUIView()
     }
-}
+}*/
