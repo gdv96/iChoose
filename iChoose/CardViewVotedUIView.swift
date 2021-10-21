@@ -66,6 +66,6 @@ struct CardViewVotedUIView: View {
 
 struct CardViewVotedUIView_Previews: PreviewProvider {
     static var previews: some View {
-        CardViewVotedUIView()
+        CardViewVotedUIView(pollsVoted: Poll(titlePoll: "Prova", imageNamePoll: "mensa", textPoll: "", remainingTime: "23h 59m", progressBar: 100, numberVotes: 10000, typePoll: 1))
     }
 }
