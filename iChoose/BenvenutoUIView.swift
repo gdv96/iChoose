@@ -100,7 +100,7 @@ struct BenvenutoUIView: View {
                         .font(.title2)
                         .foregroundColor(.white)
                         .frame(width: 200, height: 50.0)
-                        .background(Color.blue)
+                        .background(.blue)
                         .cornerRadius(10)
                         .padding()
                     
@@ -151,7 +151,6 @@ struct SheetView: View {
 }
     }
 }
-
 /*struct BenvenutoUIView_Previews: PreviewProvider {
     static var previews: some View {
         BenvenutoUIView()

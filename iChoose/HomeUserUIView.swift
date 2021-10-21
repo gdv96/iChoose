@@ -11,6 +11,7 @@ struct HomeUserUIView: View {
     @ObservedObject private var appSetting = Settings.shared
     @State private var showingAlert = false
     var body: some View {
+        //NavigationView{
             VStack {
                 Image("domenico")
                     .resizable()
@@ -73,6 +74,7 @@ struct HomeUserUIView: View {
             }
     }
 }
+//}
 
 struct HomeUserUIView_Previews: PreviewProvider {
     static var previews: some View {
@@ -83,6 +85,7 @@ struct HomeUserUIView_Previews: PreviewProvider {
 struct alertView: View {
     @State var showDetail: Bool = false
     @State private var displayPopupMessage: Bool = false
+    //@State var logOut: Bool = false
     @ObservedObject private var appSetting = Settings.shared
     
     var body: some View {
@@ -125,4 +128,3 @@ struct alertView: View {
             UIApplication.shared.open(mailtoUrl, options: [:])
     }
 }
-

@@ -10,7 +10,6 @@ import SwiftUI
 struct TabUIView: View {
     @ObservedObject private var appSetting = Settings.shared
     var body: some View {
-        
         TabView {
             if((appSetting.username.isEmpty) && (appSetting.password.isEmpty)) || (appSetting.logOut.isEmpty) {
                 HomeNotUserUIView()
@@ -39,7 +38,6 @@ struct TabUIView: View {
                 }
         }
     }
-    
 }
 
 struct TabUIView_Previews: PreviewProvider {

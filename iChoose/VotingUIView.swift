@@ -11,7 +11,7 @@ struct VotingUIView: View {
     @State private var isShowingBenvenutoView = false
     @Binding var isFirst: Bool
     var body: some View {
-        
+        //NavigationView{
         VStack{
             Image("VOTE")
                 .resizable()
@@ -50,7 +50,7 @@ struct VotingUIView: View {
                         .font(.title2)
                         .foregroundColor(.white)
                         .frame(width: 200, height: 50)
-                        .background(Color.blue)
+                        .background(.blue)
                         .cornerRadius(10)
                         .padding(.bottom, 90.0)
                     }
@@ -61,6 +61,7 @@ struct VotingUIView: View {
         }.padding(.top, 59.0)
     }
 }
+
 
 /*struct VotingUIView_Previews: PreviewProvider {
     static var previews: some View {

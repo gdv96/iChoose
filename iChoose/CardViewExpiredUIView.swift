@@ -64,8 +64,8 @@ struct CardViewExpiredUIView: View {
 }
 
 
-/*struct CardViewExpiredUIView_Previews: PreviewProvider {
+struct CardViewExpiredUIView_Previews: PreviewProvider {
     static var previews: some View {
-        CardViewExpiredUIView()
+        CardViewExpiredUIView(pollsExpired: Poll(titlePoll: "Prova", imageNamePoll: "mensa", textPoll: "", remainingTime: "23h 59m", progressBar: 100, numberVotes: 10000, typePoll: 1))
     }
-}*/
+}

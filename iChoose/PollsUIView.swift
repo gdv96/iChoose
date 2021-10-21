@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+
 struct Poll: Identifiable{
     var titlePoll: String
     var imageNamePoll: String
@@ -17,13 +18,15 @@ struct Poll: Identifiable{
     var id = UUID()
 }
 
+
 struct PollsUIView: View {
-       @State private var speed = 50.0
-       @State private var isEditing = false
-       @State private var pollsState = 0
-       @State private var searchText = ""
-       @ObservedObject private var appPoll = PollMemory.shared
-       @ObservedObject private var appSetting = Settings.shared
+    
+    @State private var speed = 50.0
+    @State private var isEditing = false
+    @State private var pollsState = 0
+    @State private var searchText = ""
+    @ObservedObject private var appPoll = PollMemory.shared
+    @ObservedObject private var appSetting = Settings.shared
     
     var body: some View {
         
@@ -97,6 +100,7 @@ struct PollsUIView: View {
 
                            Spacer()
     }.navigationBarTitle("Polls", displayMode:.automatic)
+                
         }//.navigationBarTitle("Polls", displayMode:.automatic)
             .searchable(text: $searchText)
                        }

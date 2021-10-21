@@ -18,6 +18,9 @@ struct ReadNewsUIView: View {
                 .clipShape(Circle())
                 .shadow(radius: 10)
                 .offset(y: +7)
+               /* .overlay(Circle().stroke(Color.blue, lineWidth: 2))
+                .shadow(radius: 8)*/
+            
             
             Text("Read the")
                 .padding(.top, 28.0)
@@ -40,7 +43,6 @@ struct ReadNewsUIView: View {
         }.padding(.top, 93.0)
     }
 }
-
 
 struct ReadNewsUIView_Previews: PreviewProvider {
     static var previews: some View {

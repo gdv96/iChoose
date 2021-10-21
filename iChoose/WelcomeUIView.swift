@@ -48,8 +48,6 @@ struct WelcomeUIView: View {
         
     }
 }
-
-
 struct WelcomeUIView_Previews: PreviewProvider {
     static var previews: some View {
         WelcomeUIView()

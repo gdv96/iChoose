@@ -6,8 +6,8 @@
 //
 
 import SwiftUI
-
 struct RegistrationUIView: View {
+    
     @State var firstName: String = ""
     @State var lastName: String = ""
     @State var Username: String = ""
@@ -100,7 +100,7 @@ struct RegistrationUIView: View {
                 }
             }
             accediUIView()
-        }
+        }.navigationBarHidden(true)
     }
 }
 
@@ -147,4 +147,3 @@ NavigationLink(destination: LoginUIView()) {
         Spacer()
     }
 }
-

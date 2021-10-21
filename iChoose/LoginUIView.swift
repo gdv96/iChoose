@@ -6,8 +6,8 @@
 //
 
 import SwiftUI
-
 struct LoginUIView: View {
+    
     @State var username: String = ""
     @State var password: String = ""
     
@@ -68,14 +68,14 @@ struct LoginUIView: View {
             
         }.padding(25.0)
     }
-
 }
 
-struct LoginUIView_Previews: PreviewProvider {
+struct LoginUIView_Previews : PreviewProvider {
     static var previews: some View {
         LoginUIView()
     }
 }
+
 
 struct WelcomeText : View {
     var body: some View {
@@ -134,5 +134,3 @@ struct PasswordSecureField : View {
             .padding(.bottom, 20.0)
     }
 }
-
-
