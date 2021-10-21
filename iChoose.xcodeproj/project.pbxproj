@@ -28,6 +28,7 @@
 		FB3BD04B2721D5DE00247239 /* ExpiredDetailUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD04A2721D5DE00247239 /* ExpiredDetailUIView.swift */; };
 		FB3BD04D2721D61000247239 /* VotedDetailUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD04C2721D61000247239 /* VotedDetailUIView.swift */; };
 		FB3BD04F2721D64B00247239 /* OngoingDetailNotUserUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD04E2721D64B00247239 /* OngoingDetailNotUserUIView.swift */; };
+		FB3BD0512721D6D300247239 /* OngoingDetailUserUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3BD0502721D6D300247239 /* OngoingDetailUserUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		FB3BD04A2721D5DE00247239 /* ExpiredDetailUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpiredDetailUIView.swift; sourceTree = "<group>"; };
 		FB3BD04C2721D61000247239 /* VotedDetailUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VotedDetailUIView.swift; sourceTree = "<group>"; };
 		FB3BD04E2721D64B00247239 /* OngoingDetailNotUserUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OngoingDetailNotUserUIView.swift; sourceTree = "<group>"; };
+		FB3BD0502721D6D300247239 /* OngoingDetailUserUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OngoingDetailUserUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				FB3BD04A2721D5DE00247239 /* ExpiredDetailUIView.swift */,
 				FB3BD04C2721D61000247239 /* VotedDetailUIView.swift */,
 				FB3BD04E2721D64B00247239 /* OngoingDetailNotUserUIView.swift */,
+				FB3BD0502721D6D300247239 /* OngoingDetailUserUIView.swift */,
 				FB3BD0202721CD0600247239 /* ContentView.swift */,
 				FB3BD0222721CD0800247239 /* Assets.xcassets */,
 				FB3BD0242721CD0800247239 /* Preview Content */,
@@ -196,6 +199,7 @@
 				FB3BD03F2721D41E00247239 /* TabUIView.swift in Sources */,
 				FB3BD04F2721D64B00247239 /* OngoingDetailNotUserUIView.swift in Sources */,
 				FB3BD0312721CE9D00247239 /* ReportsUIView.swift in Sources */,
+				FB3BD0512721D6D300247239 /* OngoingDetailUserUIView.swift in Sources */,
 				FB3BD0492721D55700247239 /* CardViewOngoingUIView.swift in Sources */,
 				FB3BD02D2721CDC900247239 /* WelcomeUIView.swift in Sources */,
 				FB3BD0392721D28900247239 /* RegistrationUIView.swift in Sources */,
